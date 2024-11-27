@@ -3,7 +3,7 @@ import java.awt.*;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
+//
 // Classe principal que inicializa o sistema
 public class SistemaPessoa {
     public static void main(String[] args) {
